@@ -1,0 +1,196 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    margin: 25px;
+    padding: 0;
+    background-color: #f0f4f8;
+  }
+  
+  h1 {
+    text-align: center;
+    color: #2c3e50;
+  }
+  
+  form {
+    max-width: 700px;
+    margin: auto;
+    background-color: #f0f4f8;
+    border-radius: 9px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+    padding: 30px;
+  }
+  
+  fieldset {
+    border: 3px solid #3498db;
+    border-radius: 7px;
+    padding: 25px;
+    margin-bottom: 25px;
+    background-color: rgb(234, 232, 241);
+  }
+  
+  label {
+    font-weight: bolder;
+    text-align: left;
+    color: rgb(17, 228, 59);
+    display: ruby-base;
+    margin-top: 10px;
+    color: #2c3e50;
+  }
+  
+  input, textarea {
+    width: calc(100% - 1px);
+    padding: 3%;
+    margin-top: 2%;
+    border: 1px solid #1674b2;
+    box-sizing: border-box;
+  }
+  
+  button {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    background-color: rgba(151, 167, 131, 0.5);
+    color: black;
+    border: 1px solid navy;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-top: 10px;
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+  }
+
+  buttn:hover {
+    background-color: #66b1e6;
+  }
+
+  .profilePicture {
+    display: block;
+    margin: auto;
+    border: 5px solid #4b0082;
+    box-shadow: 0 4px 8px rgba(3, 6, 200, 0.5);
+    border-radius: 100%; /* Corrected border-radius */
+    width: 250px;
+    height: 220px;
+    object-fit: cover;
+}
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
